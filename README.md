@@ -7,11 +7,11 @@ This repo will generate fake data for the [SurveyFunky](https://github.com/arela
 
 We will start working on the User object
 
-- [] Generate data to DB
-- [] Publish data to Kafka
-	- [] Register schema in schema registry
-	- [] Write to Kafka
-- [] Ensure data lands in Hudi
-- [] Ensure data is queryable by ad-hoc analysis tools
+- [ ] Generate data to DB
+- [ ] Publish data to Kafka
+	- [ ] Register schema in schema registry
+	- [ ] Write to Kafka
+- [ ] Ensure data lands in Hudi
+- [ ] Ensure data is queryable by ad-hoc analysis tools
 
 
